@@ -1,0 +1,18 @@
+Wat ga ik doen?
+
+Ik ga beginnen met de web layout.
+Ik ga er voor zorgen dat de rest van mijn groepje
+een basis kan aanhouden tijde s het devlopen
+(Layout, font, colourscheme and font size).
+
+Wat heb ik gedaan?
+
+Ik heb een git aangemaakt en mijn groepsleden heb ik
+collaborators gemaakt. Nu kunnen we allemaal op
+de gezamelijk git pushen en code/files met elkaar delen.
+
+Waar loop ik tegen aan?
+
+Dit is de eerste applicatie die ik maak met Kotlin en
+Android Studio dus ik moet nog iets meer familiar worden met
+deze nieuwe aspecten.
