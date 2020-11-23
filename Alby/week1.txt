@@ -1,0 +1,4 @@
+week1 alby
+wat heb ik gedaan: ik ben begonnen aan een data base voor de app.
+waar liep ik tegen aan: de database gaf een paar errors aan die ik nog niet heb kunnen oplossen.
+wat ga ik doen: de database afmaken en veder met de volgende opdracht
