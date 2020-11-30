@@ -1,0 +1,14 @@
+--------------------------------
+Wat ga ik doen
+--------------------------------
+Ik ga deze verder het registartie & login formulieren maken.
+
+--------------------------------
+Wat heb ik gedaan
+--------------------------------
+Heb wat wijzigingen aan de layout gemaakt en ben gaan uitzoeken hoe gegevensopgeslagen kunnen worden
+
+--------------------------------
+Waar liep ik tegen aan
+--------------------------------
+voor nu ben ik nog nergens tegen aan gelopen.
