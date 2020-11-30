@@ -1,0 +1,11 @@
+Wat ga ik doen?
+
+Ik ga deze week verder met de layout en met de rest communiceren hoe en wat we in welke tijdsperiode willen doen.
+
+Wat heb ik gedaan?
+
+Ik heb mezelf meer familiar gemaakt met Kotlin en Android Studio. Ook ben ik de puntjes op de i aan het zetten voor de weblayout.
+
+Waar had ik moeite mee?
+
+Deze week niks ernstigs, aangezien ik wat meer handig ben met Kotlin nu
