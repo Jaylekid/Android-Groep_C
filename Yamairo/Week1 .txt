@@ -1,7 +1,7 @@
-Week1 
+Week 1 
 Wat heb ik gedaan?
-Begin gemaakt aan welkom pagina 
+begin gemaakt aan de welkom pagina
 wat ga ik doen ?
-afmaken van de pagina 
+verdergaan met de welkom pagina
 Waar ben ik tegen aan gelopen?
-xml bestand of kts bestand
+xml bestand of kts
