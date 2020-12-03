@@ -1,6 +1,6 @@
-CREATE DATABASE YAJO;
+CREATE DATABASE IF NOT EXISTS YAJO;
 USE YAJO;
-CREATE TABLE Users(
+CREATE TABLE IF NOT EXISTS Users(
 	UserID INT,
     UserName VARCHAR(50),
     UserEmail VARCHAR(500),
@@ -10,28 +10,29 @@ CREATE TABLE Users(
     UserPremmission VARCHAR(50),
     PRIMARY KEY(UserID)
 );
-CREATE TABLE Catagorys(
+CREATE TABLE IF NOT EXISTS Catagorys(
 	CatagoryID INT NOT NULL,
-    CatagoryName VARCHAR(100) NOT NULL
+    CatagoryName VARCHAR(100) NOT NULL,
+    PRIMARY KEY(CatagoryID)
 );
-CREATE TABLE Posts(
-	PostID INT NOT NULL,
+CREATE TABLE IF NOT EXISTS Posts(
+	PostID INT,
     PostImage VARCHAR(50) NOT NULL,
     PostText TEXT NOT NULL,
-    UserID INT,
+    UserID INT NOT NULL,
     CatagoryID INT,
     PRIMARY KEY(PostID),
-    FOREIGN KEY (CatagoryID) REFERENCES Catagorys(CatagoryID),
-    FOREIGN KEY (UserID) REFERENCES Users(UserID)
+    FOREIGN KEY(CatagoryID) REFERENCES Catagorys(CatagoryID),
+    FOREIGN KEY(UserID) REFERENCES Users(UserID)
 );
-CREATE TABLE Reviews(
+CREATE TABLE IF NOT EXISTS Reviews(
 	ReviewID INT NOT NULL,
     ReviewContent TEXT NOT NULL,
     ReviewRating FLOAT NOT NULL,
     ReviewDate TIMESTAMP NOT NULL,
-    UserID INT,
-    PostID int,
-    FOREIGN KEY (UserID) REFERENCES Users(UserID),
-    FOREIGN KEY (PostID) REFERENCES Posts(PostID)
-    
+    UserID INT NOT NULL,
+    PostID INT NOT NULL,
+    PRIMARY KEY(ReviewID),
+    FOREIGN KEY(UserID) REFERENCES Users(UserID),
+    FOREIGN KEY(PostID) REFERENCES Posts(PostID)
 );
