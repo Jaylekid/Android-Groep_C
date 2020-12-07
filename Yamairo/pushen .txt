@@ -1,0 +1,3 @@
+pushen 
+λ git commit -m "Yamairo's map Week3" VB
+git push
