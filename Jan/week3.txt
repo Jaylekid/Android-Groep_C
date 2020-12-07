@@ -1,0 +1,11 @@
+Wat ga ik doen?
+
+Ik ga alle code die we tot nu toe hebben mergen zodat we met z'n allen in hetzelfde bestand kunnen werken.
+
+Wat heb ik gedaan?
+
+Ik heb de weblayout gefinished en ik ben begonnen met de foto upload functionaliteit.
+
+Waar loop ik tegen aan?
+
+Ik heb nog wat problemen met het connecten met de database maar met een beetje hulp van Ably denk ik dat ik er uit ga komen.
