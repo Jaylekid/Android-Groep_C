@@ -1,0 +1,4 @@
+week3 alby
+wat heb ik gedaan: ik ben veder gegaan met de data base en heb deze afgemaakt.
+waar liep ik tegen aan: de data base blijft halverwege stoppen en ik blijf tegen een error met een van de foreign keys aan lopen.
+wat ga ik doen:veder met de reviews kunnen geven
