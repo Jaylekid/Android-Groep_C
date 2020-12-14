@@ -1,0 +1,14 @@
+--------------------------------
+Wat ga ik doen
+--------------------------------
+Ik ga deze week het registartie & login formulieren afmaken.
+
+--------------------------------
+Wat heb ik gedaan
+--------------------------------
+Heb de formulieren zo goed als af en heb ook paar wijziging gemaakt aan de welcome pagina en het logo er op gezet
+
+--------------------------------
+Waar liep ik tegen aan
+--------------------------------
+Het is me niet gelukt om de knoppen werkent te krijgen waardoor k de formulieren nog niet heb kunnen testen

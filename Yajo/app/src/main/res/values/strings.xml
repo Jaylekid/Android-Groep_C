@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Yajo</string>
+    <string name="logo">Logo</string>
+    <string name="userName">Username</string>
+    <string name="welcome">Welcome to</string>
+    <string name="Logo">Logo</string>
+    <string name="button1">Get started</string>
+    <string-array name="aSpinner">
+
+        <item>Sports</item>
+        <item>Food</item>
+        <item>Clothing</item>
+        <item>Electronics</item>
+        <item>People</item>
+        <item>Art</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userName2">Username</string>
+    <string name="userNameReg">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
