@@ -1,0 +1,11 @@
+Wat ga ik doen?
+
+Code mergen, database overbrengen naar firebase, opmaak toepassen en aan verdere functionliteiten beginnen.
+
+Wat heb ik gedaan?
+
+Begonnen aan een functionaliteit om foto's te uploaden en weergeven op de app.
+
+Waar loop ik tegen aan?
+
+Het code mergen is een probleem. Maar na een stand-up kunnen we er samen vast uitkomen. 
