@@ -20,7 +20,7 @@
         android:layout_marginRight="62dp"
         android:layout_marginBottom="442dp"
         android:contentDescription="@string/logo"
-        android:src="@drawable/yajo" />
+        android:src="@drawable/Yajo" />
 
     <EditText
         android:id="@+id/editTextTextPersonName"

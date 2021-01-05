@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976015615238",
+    "project_id": "yajo-4e23a",
+    "storage_bucket": "yajo-4e23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976015615238:android:87b4f3d8222151856cea87",
+        "android_client_info": {
+          "package_name": "com.example.yajo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976015615238-m2r31f0al9l3ss1bshstcb2rjkt86tc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3zOtMHxX4xWfgawm7UiWtvAtVrApq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976015615238-m2r31f0al9l3ss1bshstcb2rjkt86tc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
