@@ -1,0 +1,2 @@
+com/example/yajo/BuildConfig.java
+ com.example.yajo.BuildConfig
