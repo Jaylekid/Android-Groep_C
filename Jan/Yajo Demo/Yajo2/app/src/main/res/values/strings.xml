@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yajo 2</string>
+    <string name="welcome">Welcome to</string>
+    <string name="Logo">YajoLogo</string>
+    <string name="button1">Click here to start!</string>
+    <string name="userName">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="check">Check</string>
+</resources>
